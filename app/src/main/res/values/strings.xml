@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">fCalculator</string>
+    <string name="equals">=</string>
+    <string name="Division">/</string>
+    <string name="multiply">*</string>
+    <string name="nFour">4</string>
+    <string name="nSix">6</string>
+    <string name="nFive">5</string>
+    <string name="minus">-</string>
+    <string name="nOne">1</string>
+    <string name="nTwo">2</string>
+    <string name="nNine">9</string>
+    <string name="nZero">0</string>
+    <string name="nThree">3</string>
+    <string name="plus">+</string>
+    <string name="nSeven">7</string>
+    <string name="nEight">8</string>
+    <string name="reset">clear</string>
+    <string name="view">TextView</string>
+</resources>
